@@ -1,0 +1,6 @@
+{
+  "name": "judobase-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para Judobase IJF API - Time Brasil Intelligence",
+  "private": true
+}
